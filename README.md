@@ -1,4 +1,4 @@
-# Powercube PKGB Config
+# Powercube PerumPKC Config
 
 ## Main features:
 
