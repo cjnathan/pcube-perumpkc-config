@@ -6,8 +6,9 @@
 * Review all available buildings.
 * Monitor realtime data for each building.
 
-### Backups
-* Review all available backups.
+### Logs
+* Review logs.
+* Reset logs.
 
 ### Settings
 * Configure settings for all buildings.
